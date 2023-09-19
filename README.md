@@ -1,7 +1,7 @@
 ### Hello 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinQuero&theme=algolia)]()
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuentinQuero&theme=algolia)]()-->
 
 ![](https://komarev.com/ghpvc/?username=QuentinQuero&color=blue)
 
